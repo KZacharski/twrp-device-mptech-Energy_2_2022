@@ -10,3 +10,5 @@
 ```
 Current issues:
 - userdata doesn't mount
+- no fastbootd
+- probably a lot of other stuff, very, very far from finished
